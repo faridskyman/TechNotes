@@ -11,7 +11,7 @@ Ref: https://stormpath.com/blog/getting-started-with-saml-in-dot-net
   
 * Shibboleth is a mature open source SAML Service Provider  
   
- ## About SAML
+## About SAML
 Ref: https://stormpath.com/blog/getting-started-with-saml-in-dot-net
 What is SAML?
 * SAML (Security Assertion Markup Language) 
@@ -27,4 +27,10 @@ A reasonable Commercial provider
 * Free for personal project and as cheap as $20 for up to 1k of monthly users for commercial projects
   * https://developer.okta.com/pricing/
   * https://github.com/stormpath/stormpath-sdk-dotnet
+  
+## SSO with .NET Example
+The explanation looks clear and very awesome example
+* https://stackoverflow.com/questions/14309090/c-sharp-asp-net-single-sign-on-implementation
+* https://www.codeproject.com/Articles/429166/Basics-of-Single-Sign-on-SSO
+
 
